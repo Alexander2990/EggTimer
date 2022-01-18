@@ -2,6 +2,7 @@
 
 ### The App Brewery Complete App Development course project.
 ### A beautiful egg timer app to boil your eggs to perfection depending on how you prefer your eggs.
+#### Control Flow and Optionals
 
 ### What I learned:
 
@@ -16,7 +17,7 @@
 
 ### Учебный проект в рамках курса The App Brewery Complete App Development.
 ### Красивое приложение таймер для яиц, чтобы cварить яйцо до совершенства в зависимости от того, какой степени готовности вы предпочитаете яйца.
-
+#### Control Flow and Optionals
 
 ### Чему я научился:
 
