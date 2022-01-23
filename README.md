@@ -6,7 +6,7 @@
 
 ### What I learned:
 
-* Swift Collection types - Dictionaries
+* Considered Swift Collection types - Dictionaries
 * The Swift Timer API
 * Conditional statements - IF/ELSE
 * Conditional statements - Switch
@@ -21,7 +21,7 @@
 
 ### Чему я научился:
 
-* Типы Swift Collection — Словари
+* Рассмотрел типы Swift Collection — Словари
 * API-интерфейс Swift Timer
 * Условные операторы - IF/ELSE
 * Условные операторы — Switch
